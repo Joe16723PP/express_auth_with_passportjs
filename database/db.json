@@ -1,0 +1,15 @@
+{
+    "users": [{
+        "username": "new_jirot_joe",
+        "password": "$2b$05$oAs75JHiZ4PJkNq7Taov5eRHv1pqFRJvhZGJ5DYVlRFPhpoojWNXq"
+    }, {
+        "username": "jirotJoe",
+        "password": "$2b$05$6u8dCG55upQT0uZTFT1m1OIG29ZG6bNDhr1ebLIRs0jtC6vuq7NSq"
+    }, {
+        "username": "joe16723",
+        "password": "$2b$05$hFfIOCUYRBntqrdn6LCFJOhd.sTk7XZ4CwbjLAqc9QSruCgmKs6jG"
+    }, {
+        "username": "kevin_zercle",
+        "password": "$2b$05$eDNDyCnyBpuUhIPUDoujEOxLhDOquGYLbc/VSea72BtOdpLQedNY6"
+    }]
+}
